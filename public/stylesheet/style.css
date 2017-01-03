@@ -1,0 +1,27 @@
+body
+{
+	background: url("../images/background.jpg");
+	background-repeat: none;
+}
+ul
+{
+	padding: none;
+	margin: none;
+	list-style: none;
+}
+a
+{
+	font-family: 'Raleway', sans-serif;
+}
+.btn btn-default
+{
+	padding: 80px;
+}
+.base
+{
+	background-color: grey;
+}
+p
+{
+	font-family: 'Arima Madurai', cursive;
+}
