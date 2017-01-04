@@ -1,5 +1,5 @@
 # Fivestargarments-website
-
+<a href ="http://fivestargarments.in/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="status"> </a>
 <a href="https://github.com/MohitChattlani/Fivestargarments-website/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
 <a href="https://twitter.com/chattlanimohit"><img src="https://img.shields.io/badge/twitter-%40Chattlanimohit-blue.svg" alt="twitter"/></a>
 
