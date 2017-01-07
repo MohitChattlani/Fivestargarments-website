@@ -9,9 +9,13 @@ ul
 	margin: none;
 	list-style: none;
 }
+.navbar-toggle.navbar-left {
+  float: left;
+  margin-left: 10px;
+}
 a
 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif; 
 }
 .btn btn-default
 {
