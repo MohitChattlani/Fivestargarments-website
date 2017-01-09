@@ -1,5 +1,12 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
 <?php render("header.php",["title"=>"FIVE STAR"])?>
+<script type="text/javascript">
+	$(document).ready(function () {
+  $(".nav li").removeClass("active");//this will remove the active class from  
+                                     //previously active menu item 
+  $('#home').addClass('active');
+});
+</script>
 <link rel="stylesheet" type="text/css" href="stylesheet/home.css"> 
 	<div class="container">
 		<div class="row" align="center">
