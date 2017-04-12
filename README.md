@@ -40,7 +40,7 @@ Any kind of contributions are welcome.
 4. **Push** your work back up to your fork.
 5. Submit a **Pull request** so that i can review your changes
 
-##License
+## License
 
 ```Groovy
 MIT License
