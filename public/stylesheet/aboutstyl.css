@@ -3,11 +3,13 @@
 	font-family: 'Arima Madurai', cursive;
 	font-size: 1.3em;
 	color: #262626;
-	letter-spacing: 0.0625em; 
+	letter-spacing: 0.0625em;
+	padding-left: 20px; 
 }
 h2
 {
 	font-family: 'Reem Kufi', sans-serif;
+	padding-left: 20px;
 }
 .base
 {
