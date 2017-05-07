@@ -1,5 +1,5 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
-<?php render("header.php",["title"=>"FIVE STAR| BABY GIRL DRESSES"])?>
+<?php render("header.php",["title"=>"FIVE STAR| BABY GIRL DRESSES","description"=>"Latest collection of baby girl dresses."])?>
 <script type="text/javascript">
   $(document).ready(function () {
   $(".nav li").removeClass("active");
