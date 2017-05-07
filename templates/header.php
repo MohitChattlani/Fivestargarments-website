@@ -32,6 +32,15 @@
       <ul class="nav navbar-nav">
         <li id="home" class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span> HOME</a></li>
         <li id="gallery"><a href="gallery.php"><span class="glyphicon glyphicon-film"></span> GALLERY</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" >COLLECTION <b class="caret"></b></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Woman</a></li>
+            <li class="divider"></li>
+            <li id="babygirl"><a href="babygirl.php">BABY GIRL | 3 months - 4 years</a></li>
+            <li id="girl"><a href="girldresses.php">GIRL | 4 - 17 years</a></li>
+         </ul>
+        </li>
         <li id="about"><a href="about.php"><span class="glyphicon glyphicon-log-out"></span> ABOUT US</a></li>
         <li id="contact"><a href="contact.php"><span class="glyphicon glyphicon-search"></span> FIND US</a></li>
       </ul>
