@@ -1,5 +1,6 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
-<?php render("header.php",["title"=>"FIVE STAR| CONTACT US"])?>
+<?php render("header.php",["title"=>"FIVE STAR| CONTACT US","description"=>"Get in touch with us."])?>
+
 <script type="text/javascript">
   $(document).ready(function () {
   $(".nav li").removeClass("active");

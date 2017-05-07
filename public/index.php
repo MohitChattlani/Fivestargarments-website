@@ -1,5 +1,6 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
-<?php render("header.php",["title"=>"FIVE STAR"])?>
+<?php render("header.php",["title"=>"FIVE STAR","description"=>"The official website of fivestar readymade garments. To provide good quality clothes for all age-groups at affordable prices."])?>
+
 <script type="text/javascript">
 	$(document).ready(function () {
   $(".nav li").removeClass("active");//this will remove the active class from  
