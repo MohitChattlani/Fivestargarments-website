@@ -21,10 +21,6 @@ The website for a clothing store based in new delhi .
 * bootstrap
 * php
 
-## Website link 
-
- Hosted on <a href="www.fivestargarments.in">www.fivestargarments.in</a>
-
 Issues
 ==========
 
