@@ -1,5 +1,6 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
 <?php render("header.php",["title"=>"FIVE STAR| GALLERY","description"=>"Some pictures of the store."])?>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
   $(".nav li").removeClass("active");

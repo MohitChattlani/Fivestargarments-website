@@ -1,5 +1,6 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
 <?php render("header.php",["title"=>"FIVE STAR| GIRL DRESSES","description"=>"Latest collection of girl dresses."])?>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
   $(".nav li").removeClass("active");
@@ -11,7 +12,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="girlpic">
                   <figure>
-                  	<img src="images/girl/girl1.1.png" alt="girl1" class="catalogue" />
+                    <img src="images/girl/girl1.1.png" alt="girl1" class="catalogue" />
                     <figcaption>
                     <p><b>Gown</b><br>8-15-17 yrs</p>
                     </figcaption>
@@ -23,7 +24,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="girlpic">
                   <figure>
-                  	<img src="images/girl/girl1.2.png" alt="girl2" class="catalogue" />
+                    <img src="images/girl/girl1.2.png" alt="girl2" class="catalogue" />
                     <figcaption>
                     <p><b>Lehenga dress</b><br>8-15-17 yrs</p> 
                     </figcaption>

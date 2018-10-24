@@ -1,5 +1,6 @@
 <?php require(__DIR__."/../includes/helpers.php") ?>
 <?php render("header.php",["title"=>"FIVE STAR| BABY GIRL DRESSES","description"=>"Latest collection of baby girl dresses."])?>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
   $(".nav li").removeClass("active");
@@ -11,7 +12,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="girlpic">
                   <figure>
-                  	<img src="images/babygirl/babygirl1.1.png" alt="babygirl1" class="catalogue" />
+                    <img src="images/babygirl/babygirl1.1.png" alt="babygirl1" class="catalogue" />
                     <figcaption>
                     <p><b>Frock</b><br>1-3-4 yrs</p>
                     </figcaption>
@@ -23,7 +24,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="girlpic">
                   <figure>
-                  	<img src="images/babygirl/babygirl1.2.png" alt="babygirl2" class="catalogue" />
+                    <img src="images/babygirl/babygirl1.2.png" alt="babygirl2" class="catalogue" />
                     <figcaption>
                     <p><b>Frock</b><br>1-3-4 yrs</p>
                     </figcaption>
@@ -33,7 +34,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="girlpic">
                   <figure>
-                  	<img src="images/babygirl/babygirl1.3.png" alt="babygirl3" class="catalogue" />
+                    <img src="images/babygirl/babygirl1.3.png" alt="babygirl3" class="catalogue" />
                     <figcaption>
                     <p><b>Frock</b><br>1-3-4 yrs</p> 
                     </figcaption>
