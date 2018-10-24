@@ -14,7 +14,7 @@
 		<div class="row" align="center">
 			<a href="#" data-toggle="popover" title="Call us at" data-placement="right" data-content="+911147519797"><img src="images/call.png" class="icons" /></a>
   			<a href="mailto:fivestarreadymadegarments@gmail.com" target="_top" ><img class="icons" src="images/mail.png"/></a>
-  			<a href="https://plus.google.com/105658317235470698610"><img class="icons" src="images/google.png"/></a>
+  			<a href="https://plus.google.com/u/0/108950958287829558545"><img class="icons" src="images/google.png"/></a>
   		</div>
   		<div class="page-header">
 			<h1>Locate us-</h1>
