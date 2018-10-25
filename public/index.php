@@ -12,7 +12,7 @@
 	<div class="container">
 		<div class="row" align="center">
 			<figure>
-				<img class="images" src="images/family2.jpg">
+				<img class="images" src="images/family3.jpg">
 			</figure>
 		</div>
 	</div>
