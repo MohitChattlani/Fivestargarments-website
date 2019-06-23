@@ -17,6 +17,7 @@
     $(".dropdown-toggle").dropdown();
     });
   </script>
+  <meta name="google-site-verification" content="sNMQ6HTFoigKoHUpc2E6HU_-1AsQN_5VjC5nq3ugZMM" />
 </head>
 <body>
 <div class="row" align="center">
