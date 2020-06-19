@@ -5,6 +5,7 @@
   <meta name="author" content="Mohit Chattlani" />
   <meta property="og:site_name" content="FIVE STAR" />
   <meta name="description" content="<?=$description?>">
+  <meta name="keywords" content="Clothing Shop in Central Market Lajpat Nagar Delhi, Bridal shop in Central Market Lajpat Nagar Delhi, Baby Clothing Shop in Central Market Lajpat Nagar Delhi, Casual Clothing Store in Central Market Lajpat Nagar Delhi, Formal Clothing Store in Central Market Lajpat Nagar Delhi, Western Clothing Shop in Central Market Lajpat Nagar Delhi, Clothing Accessories Store in Central Market Lajpat Nagar Delhi">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link href="https://fonts.googleapis.com/css?family=Arima+Madurai|Raleway|Reem+Kufi" rel="stylesheet" />
   <link rel="shortcut icon" href="images/FSfront2.jpg"/>
