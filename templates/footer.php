@@ -1,8 +1,8 @@
 <div class="row" align="center">
-	<p>Review us at <a href="https://g.co/kgs/8nOCES"><span class="glyphicon glyphicon-thumbs-up"></span> Google</a></p>
+	<p>Review us at <a target="_blank" href="https://g.page/five-star-readymade-garments?gm"><span class="glyphicon glyphicon-thumbs-up"></span> Google</a></p>
 </div>
 <div class="row" align="center">
-<p>Developed by <a href="https://twitter.com/chattlanimohit">Mohit Chattlani</a></p>
+<p>Developed by <a target="_blank" href="https://twitter.com/chattlanimohit">Mohit Chattlani</a></p>
 </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
