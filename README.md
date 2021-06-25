@@ -15,7 +15,6 @@ The website of a clothing store based in new delhi .
 
 ## Built With
 
-* love
 * html 
 * css
 * bootstrap
