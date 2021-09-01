@@ -13,7 +13,7 @@ The website of a clothing store based in new delhi .
 * Cross-platform
 * Simple, easy and to the point
 
-## Built With
+## Built With Tech
 
 * html 
 * css

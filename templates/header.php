@@ -19,6 +19,15 @@
     });
   </script>
   <meta name="google-site-verification" content="sNMQ6HTFoigKoHUpc2E6HU_-1AsQN_5VjC5nq3ugZMM" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GNR9Z8WB8Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GNR9Z8WB8Q');
+</script>
 </head>
 <body>
 <div class="row" align="center">
