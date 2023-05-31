@@ -10,7 +10,7 @@
 <link rel="stylesheet" type="text/css" href="stylesheet/aboutstyl.css">
 		<div class="base">
 			<div class="page-header">
-				<h2>Five star readymade Garments</h2>
+				<h2>New Five star Garments</h2>
 			</div>
 			<p class="para">A family clothing shop based in New delhi. We deal in formal clothing, casual clothing, woolen clothing, baby clothing, wedding clothing and other clothing accessories. The store is open all seven days with working hours from 10:30AM to 9:30PM <kbd>except Monday.</kbd></p>
 		<p class="para">

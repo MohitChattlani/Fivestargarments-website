@@ -23,7 +23,7 @@
     <div class="item active">
       <img class="shopimg" src="images/shop1.1.jpg" alt="shop1">
       <div class="carousel-caption">
-        <h3>Five star garments</h3>
+        <h3>New Five star garments</h3>
         <p>Exterior photos</p>
       </div>
     </div>
@@ -31,7 +31,7 @@
     <div class="item">
       <img class="shopimg" src="images/shop1.2.jpg" alt="shop2">
       <div class="carousel-caption">
-        <h3>Five star garments</h3>
+        <h3>New Five star garments</h3>
         <p>Interior photos</p>
       </div>
     </div>
@@ -39,7 +39,7 @@
     <div class="item">
       <img class="shopimg" src="images/shop1.3.jpg" alt="shop3">
       <div class="carousel-caption">
-        <h3>Five star garments</h3>
+        <h3>New Five star garments</h3>
         <p>View from outside</p>
       </div>
     </div>
@@ -47,14 +47,14 @@
     <div class="item">
       <img class="shopimg" src="images/shop1.4.jpg" alt="shop4">
       <div class="carousel-caption">
-        <h3>Five star garments</h3>
+        <h3>New Five star garments</h3>
         <p>Interior photos</p>
       </div>
     </div>
     <div class="item">
       <img class="shopimg" src="images/shop1.5.jpg" alt="shop5">
       <div class="carousel-caption">
-        <h3>Five star garments</h3>
+        <h3>New Five star garments</h3>
         <p>Exterior photos</p>
       </div>
     </div>
