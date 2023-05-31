@@ -8,7 +8,7 @@
   <meta name="keywords" content="Clothing Shop in Central Market Lajpat Nagar Delhi, Bridal shop in Central Market Lajpat Nagar Delhi, Baby Clothing Shop in Central Market Lajpat Nagar Delhi, Casual Clothing Store in Central Market Lajpat Nagar Delhi, Formal Clothing Store in Central Market Lajpat Nagar Delhi, Western Clothing Shop in Central Market Lajpat Nagar Delhi, Clothing Accessories Store in Central Market Lajpat Nagar Delhi">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link href="https://fonts.googleapis.com/css?family=Arima+Madurai|Raleway|Reem+Kufi" rel="stylesheet" />
-  <link rel="shortcut icon" href="images/FSfront2.jpg"/>
+  <link rel="shortcut icon" href="images/newfs.png"/>
   <link rel="stylesheet" type="text/css" href="stylesheet/bootstrap.min.css"/>
   <link rel="stylesheet" type="text/css" href="stylesheet/style.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -31,7 +31,7 @@
 </head>
 <body>
 <div class="row" align="center">
-    <a href="index.php"><img src="images/newfront.jpg" width="120px" height="120px" /></a>
+    <a href="index.php"><img src="images/new_fs_logo.png" width="150px" height="150px" /></a>
 </div>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
